@@ -5,7 +5,7 @@
 ```
 ~/.claude/CLAUDE.md     Global     Your preferences          Every project    ~15 lines
 .claude/CLAUDE.md       Project    Team context + rules       Committed        40-60 lines
-.claude/local.md        Local      Your personal overrides    Gitignored       ~10 lines
+./CLAUDE.local.md       Local      Your personal overrides    Gitignored       ~10 lines
 ```
 
 ## Project CLAUDE.md Sections (in order)
